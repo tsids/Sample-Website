@@ -1,3 +1,3 @@
 # Sample Website
 
-A sample shopping website to test out Bootstrap and other language features
+A sample shopping website made as a project
